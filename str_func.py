@@ -7,7 +7,5 @@ def _upper_str(_str):
 def _title_str(_str):
     """
     Переводит первые буквы слов в строке в верхний регистр
-    :param _str:
-    :return:
     """
     return _str.title()
